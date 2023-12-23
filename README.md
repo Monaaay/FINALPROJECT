@@ -1,6 +1,6 @@
 # Web Systems and Technologies Final Project
 
-* This website is intended for Academic Purposes only, in partial fulfillment for the submission of Final Project in Web System and Technologies.
+* This repository is intended for Academic Purposes only, in partial fulfillment for the submission of Final Project in Web System and Technologies.
 
 
 ## Team Members:
